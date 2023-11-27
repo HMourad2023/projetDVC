@@ -1,0 +1,4 @@
+[core]
+    remote = mourad_data_base
+['remote "mourad_data_base"']
+    url = gdrive://1Ysuyra-rM-hktihWQx5gyrBBXaM4Lrrd
